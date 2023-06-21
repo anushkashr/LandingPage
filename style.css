@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    color: #f9faf8;
+    background-color: #1f2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 10px;
+}
+
+.header header {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+
+.header nav *{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #e5e7eb;
+    float: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: bolder;
+    text-decoration: none;
+}
+.header nav a{
+    flex-direction: column-reverse;
+}
+
+.header h1 {
+    padding-top: 80px;
+    padding-bottom: 5px;
+    font-size: 35px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.header p {
+    color: #e5e7eb;
+    font-size: 18px;
+    padding-bottom: 15px;
+    
+}
+
+.header img {
+    height: 300px;
+    width: 300px;
+    display: inline;
+}
+
+.sign {
+    border: none;
+    padding: 5px 25px;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 6px;
+    display: flex;
+}
+
+.image-container h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+.image-container .img-items {
+    margin-top: 50px;
+    margin-bottom: 90px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.image-container .img-items img{
+    width: 150px;
+    height: 150px;
+
+}
+
+.image-container .img-items figure figcaption{
+    text-align: center;
+}
+
+
+
+.quote-container {
+    background-color: #e5e7eb;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-style: italic;
+}
+
+.quote-container span {
+    text-indent: 50%;
+    font-weight: bold;
+    
+}
+
+.blue-container {
+    
+    background-color: white;
+   
+}
+
+.blue-container .call {
+    
+    border-color: white;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 30px 50px;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 6px;
+}
+
+.blue-container .call .sign2 {
+    
+    border-width: 2px;
+    border-color: white;
+    padding: 5px 25px;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 6px;
+}
+
+.footer-container *{
+    padding: 30px;
+    font-size: 15px;
+    color: #e5e7eb;
+    text-align: center;
+    background-color: #1f2937;
+}
