@@ -51,7 +51,7 @@
 .header img {
     height: 300px;
     width: 300px;
-    display: inline;
+    float: right;
 }
 
 .sign {
@@ -131,6 +131,10 @@
     color: white;
     background-color: #3882f6;
     border-radius: 6px;
+    float: right;
+    margin-bottom: 100px;
+
+    
 }
 
 .footer-container *{
