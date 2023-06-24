@@ -75,7 +75,7 @@ body {
     height: 250px;
     width: 420px;
     /*margin-right: auto;*/
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 
@@ -119,6 +119,7 @@ body {
 
 .image-container .img-items p{
     text-align: center;
+    font-weight: bold;
 }
 
 .quote-container {
@@ -137,7 +138,7 @@ body {
 .quote-container b {
     margin-left: 940px;
     font-size: 18px;
-    color: #1f2937;
+    color: #2b3646;
 }
 
 
