@@ -111,8 +111,8 @@ body {
 
 
 .image-container .img-items img{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 50px;
 }
 
 
@@ -127,10 +127,6 @@ body {
     text-align: center;
     font-style: italic;
 }
-
-
-
-
 
 
 .blue-container {
@@ -157,7 +153,8 @@ body {
     border-radius: 6px;
     display: flex;
     align-items: center;
-    margin-left: 600px;
+    margin-left: 400px;
+    margin-top: 50px;
    
 }
 
